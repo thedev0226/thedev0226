@@ -7,3 +7,4 @@ console.log("new")
 
 // third test
 function{x -> x-2}
+// new f
